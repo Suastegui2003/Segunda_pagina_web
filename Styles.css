@@ -1,0 +1,60 @@
+/* 
+ESTA ES UNA HOJA DE ESTILO, AQUI TENEMOS QUE PONER REGLAS.
+
+REGLAS QUE MODIFICAN MIS CAJITAS (ELEMENTOS DE HTML)
+
+REGLAS=> PROPIADAD :VALOR
+EN CSS NECESITAMOS ASIGMARLE  LA REGLA A ALGUIEN 
+
+ELEMENTOS SELECCIONADO {
+    PROPIEDAD VALOR 1:
+     PROPIEDAD VALOR 2:
+      PROPIEDAD VALOR 3:
+ }
+
+*/
+body { 
+    background-color:aliceblue;
+}
+/* 
+SELECTORES 
+
+EXISTE 3 MANERAS DE SELECCIONAR ELEMENTOS :
+NOMBRE DE ETIQUETA 
+
+CLASE
+ID
+
+*/
+h1 {
+    background-color: white;
+    
+ }
+ #subtitulo{
+    font-size: 34px;
+ }
+
+ .texto-rojo{
+    color: blue;
+    img{
+      height: 200;
+      
+   }
+    
+ }
+
+/* SELECTOR DE CLASE*/
+ .mamifero { border:15px solid wheat;
+}
+#Gatito {
+   border-radius: 50%;
+   display: block;
+}
+
+
+
+ 
+   
+
+ 
+ 
